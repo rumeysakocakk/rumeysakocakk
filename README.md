@@ -52,6 +52,16 @@ My current interests focus on Machine Learning, Artificial Intelligence, Data Sc
 ---
 
 ## Highlighted Projects
+### Damage Tracking and Technical Service Management System
+
+A Python-based technical service and damage tracking application designed to manage service processes through role-based system operations.
+
+- Developed a desktop user interface using CustomTkinter.
+- Integrated MySQL for structured data storage and management using mysql-connector-python.
+- Implemented role-based system operations for Customer, Technician, and Master users.
+- Applied SHA-256 hashing for password security and authentication processes.
+- Organized the application using modular components including database, models, helpers, and action modules.
+- Used Pillow for image processing and graphical interface components.
 
 ### [Movie Recommendation System](https://github.com/rumeysakocakk/movie-recommendation-system)
 
