@@ -2,11 +2,11 @@
 
 ### Software Engineering Student | Artificial Intelligence & Machine Learning
 
-I am a third-year Software Engineering student with experience in Java, Python, and C. Throughout my software engineering education, I have developed projects in object-oriented programming, data structures, algorithms, data analysis, database-driven applications, and data-driven software systems.
+I am a third-year Software Engineering student with experience in Java, Python, and C. Throughout my software engineering education, I have developed projects involving object-oriented programming, data structures, algorithms, data analysis, database-driven applications, and data-driven software systems.
 
 Currently, I am gaining professional experience in Machine Learning and Artificial Intelligence through my internship. Alongside technical work in Machine Learning and Data Science, I contribute to AI product testing processes by evaluating system functionality, identifying potential issues and improvement areas, and supporting product development.
 
-My current interests focus on Machine Learning, Artificial Intelligence, Data Science, recommendation systems, and intelligent data-driven software development.
+My current interests include Machine Learning, Artificial Intelligence, Data Science, recommendation systems, and intelligent data-driven software development.
 
 ---
 
@@ -23,21 +23,50 @@ My current interests focus on Machine Learning, Artificial Intelligence, Data Sc
 
 ## Languages and Tools
 
+### Programming Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1A80BD?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" title="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" title="C" />
+</p>
+
+### Data Science and Machine Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" title="Scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" alt="Jupyter Notebook" title="Jupyter Notebook" />
+</p>
+
+### Databases and Frameworks
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="55" height="55" alt="Flask" title="Flask" />
+</p>
+
+### Development Environments and Tools
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="Apache NetBeans" title="Apache NetBeans" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" title="PyCharm" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </p>
 
 ---
@@ -58,15 +87,15 @@ My current interests focus on Machine Learning, Artificial Intelligence, Data Sc
 
 ## Highlighted Projects
 
-### Damage Tracking and Technical Service Management System
+### [Damage Tracking and Technical Service Management System](https://github.com/rumeysakocakk/professional-technical-service-system)
 
 A Python-based desktop application developed to manage technical service and damage tracking processes through role-based system operations.
 
 - Developed a desktop user interface using CustomTkinter.
-- Integrated MySQL for structured data storage and management using `mysql-connector-python`.
+- Integrated MySQL for structured data storage using `mysql-connector-python`.
 - Implemented role-based system operations for Customer, Technician, and Master users.
-- Applied SHA-256 hashing for password security and authentication processes.
-- Designed a modular application structure including database, models, helpers, and action modules.
+- Applied SHA-256 hashing to password security and authentication processes.
+- Designed a modular application structure containing database, model, helper, and action modules.
 - Used Pillow for image processing and graphical interface components.
 
 ### [Movie Recommendation System](https://github.com/rumeysakocakk/movie-recommendation-system)
@@ -75,7 +104,7 @@ A Java-based recommendation system designed to generate personalized movie recom
 
 - Implemented cosine similarity and user-based similarity techniques.
 - Developed custom heap-based data structures for recommendation prioritization.
-- Processed movie and user rating data from CSV datasets.
+- Processed movie and user-rating data from CSV datasets.
 - Applied data structures and algorithmic approaches to recommendation generation.
 
 ### [Liver Patient Data Analysis](https://github.com/rumeysakocakk/liver-patient-data-analysis)
@@ -83,15 +112,15 @@ A Java-based recommendation system designed to generate personalized movie recom
 A Python-based data analysis project developed using the Indian Liver Patient Dataset.
 
 - Performed data cleaning, filtering, grouping, sorting, and aggregation using Pandas.
-- Applied missing value handling and structured data preprocessing.
+- Applied missing-value handling and structured data preprocessing.
 - Processed and analyzed patient data using data analysis techniques.
 - Created data visualizations using Matplotlib.
 
 ### [Drop Number Game](https://github.com/rumeysakocakk/drop-number-game)
 
-A Java-based desktop game developed using custom linked list data structures.
+A Java-based desktop game developed using custom linked-list data structures.
 
-- Implemented custom linked list structures to manage game elements.
+- Implemented custom linked-list structures to manage game elements.
 - Developed number-processing algorithms and core game mechanics.
 - Applied data structures and object-oriented programming principles.
 - Designed an interactive graphical user interface using Java Swing.
@@ -111,17 +140,18 @@ A modular Java application focused on object-oriented programming and custom inv
 
 - Designed a two-dimensional array-based shelf management system.
 - Applied object-oriented programming principles and modular software design.
-- Implemented structured inventory management operations.
-- Developed application logic for library resource management.
+- Implemented book borrowing, returning, and availability operations.
+- Managed books, users, and transactions through separate classes.
 
-### [Pokemon Battle Engine](https://github.com/rumeysakocakk/Pokemon-Combat-Simulator)
+### [Pokémon Combat Simulator](https://github.com/rumeysakocakk/Pokemon-Combat-Simulator)
 
-A C-based battle simulation system focused on game logic, data processing, and algorithmic problem solving.
+A terminal-based battle simulation engine developed in C with a data-driven architecture.
 
-- Implemented battle mechanics and entity interaction logic.
-- Applied structured programming and algorithmic problem-solving concepts.
-- Processed external data to manage game entities and statistics.
-- Developed core game operations using the C programming language.
+- Implemented turn-based combat and Pokémon-switching mechanics.
+- Used dynamic memory allocation to manage Pokémon, moves, and type data.
+- Loaded game data from external text files instead of hardcoding it.
+- Applied structures, pointers, file operations, and modular programming.
+- Implemented physical and special damage calculations with elemental type effectiveness.
 
 ---
 
